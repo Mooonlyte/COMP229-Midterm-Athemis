@@ -1,4 +1,4 @@
-/* db.js | Andreas Themistocles | 301251197 | COMP-229-Midterm */
+/* server/config/db.js | Andreas Themistocles | 301251197 | COMP-229-Midterm */
 module.exports = {
   //local MongoDB deployment ->
   //"URI": "mongodb://localhost/books229"

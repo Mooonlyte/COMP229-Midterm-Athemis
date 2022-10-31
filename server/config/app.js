@@ -1,4 +1,4 @@
-/* app.js | Andreas Themistocles | 301251197 | COMP-229-Midterm */
+/* server/config/app.js | Andreas Themistocles | 301251197 | COMP-229-Midterm */
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');
